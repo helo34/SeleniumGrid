@@ -12,8 +12,8 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class TestSelenium{
 	
-	//String browser = "firefox";
-	String browser = System.getProperty("navigateur");
+	String browser = "firefox";
+	//String browser = System.getProperty("navigateur");
 	//String version = "57.0.4";
 	//String version ="63.0.3239.132";
 	String url = "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal";
